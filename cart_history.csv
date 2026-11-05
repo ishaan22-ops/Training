@@ -1,0 +1,8 @@
+username,product_id,product_name,category,price,quantity,subtotal
+ishaan,101,TV,Electronics,80.0,5,400.0
+arjun,101,TV,Electronics,80.0,5,400.0
+arjun,101,TV,Electronics,80.0,5,400.0
+ishaan,102,Mobile,Electronics,45.0,6,270.0
+jayant,103,Earphones,Accessories,120.0,8,960.0
+ishaan,103,Earphones,Accessories,120.0,1,120.0
+ishaan2,103,Earphones,Accessories,120.0,5,600.0
